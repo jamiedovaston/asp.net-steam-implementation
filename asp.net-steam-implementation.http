@@ -1,0 +1,6 @@
+@asp.net_steam_implementation_HostAddress = http://localhost:5215
+
+GET {{asp.net_steam_implementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
